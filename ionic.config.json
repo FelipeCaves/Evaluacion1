@@ -1,0 +1,7 @@
+{
+  "name": "ev_1_fcuevas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
